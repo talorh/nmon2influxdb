@@ -12,7 +12,7 @@ import (
 	"github.com/adejoux/nmon2influxdb/hmc"
 	"github.com/adejoux/nmon2influxdb/nmon"
 	"github.com/adejoux/nmon2influxdb/nmon2influxdblib"
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 )
 
 func main() {
