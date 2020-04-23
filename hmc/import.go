@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/adejoux/nmon2influxdb/nmon2influxdblib"
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 )
 
 const timeFormat = "2006-01-02T15:04:05-0700"

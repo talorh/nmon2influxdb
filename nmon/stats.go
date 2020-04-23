@@ -9,7 +9,7 @@ import (
 
 	"github.com/adejoux/influxdbclient"
 	"github.com/adejoux/nmon2influxdb/nmon2influxdblib"
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 )
 
 const querytimeformat = "2006-01-02 15:04:05"

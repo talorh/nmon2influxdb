@@ -17,7 +17,7 @@ import (
 
 	"github.com/adejoux/influxdbclient"
 	"github.com/adejoux/nmon2influxdb/nmon2influxdblib"
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 )
 
 var hostRegexp = regexp.MustCompile(`^AAA.host.(\S+)`)
