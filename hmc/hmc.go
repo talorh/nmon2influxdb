@@ -25,7 +25,7 @@ import (
 )
 
 // hmc can be really slow to answer
-const timeout = 30
+const timeout = 120 
 
 // HMC contains the base struct used by all the hmc sub command
 type HMC struct {

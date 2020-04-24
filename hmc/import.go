@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/adejoux/nmon2influxdb/nmon2influxdblib"
+	"github.com/talorh/nmon2influxdb/nmon2influxdblib"
 	"github.com/urfave/cli"
 )
 
